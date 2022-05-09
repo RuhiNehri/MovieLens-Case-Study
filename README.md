@@ -9,12 +9,16 @@ Domain: Entertainment
 Analysis Tasks to be performed:
 
 1.Import the three datasets
+
 2.Create a new dataset [Master_Data] with the following columns MovieID Title UserID Age Gender Occupation Rating. (Hint: (i) Merge two tables at a time. (ii) Merge the tables     using two primary keys MovieID & UserId)
+
 3.Explore the datasets using visual representations (graphs or tables), also include your comments on the following:
   User Age Distribution
   User rating of the movie “Toy Story”
   Top 25 movies by viewership rating
+  
   Find the ratings for all the movies reviewed by for a particular user of user id = 2696
+  
   Feature Engineering:
            
 4.Use column genres:
